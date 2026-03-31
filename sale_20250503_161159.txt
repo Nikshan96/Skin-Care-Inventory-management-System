@@ -1,0 +1,7 @@
+Customer: saugat
+Date: 2025-05-03 16:11:59
+Product: Sunscreen
+Brand: Aqualogica
+Quantity Sold: 13 (10 paid + 3 free)
+Rate per item: Rs. 1400.0
+Total Amount (excluding free): Rs. 14000.0

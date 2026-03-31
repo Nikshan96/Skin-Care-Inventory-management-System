@@ -1,0 +1,7 @@
+Vendor: ijwl
+Date: 2025-05-11 12:53:23
+Product: Vitamin C Serum
+Brand: Garnier
+Quantity Restocked: 3000
+Rate: Rs. 2000.0
+Total: Rs. 6000000.0

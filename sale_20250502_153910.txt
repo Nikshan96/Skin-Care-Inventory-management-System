@@ -1,0 +1,7 @@
+Customer: jk
+Date: 2025-05-02 15:39:10
+Product: Vitamin C
+Brand: Garnier
+Quantity Sold: 26 (20 paid + 6 free)
+Rate per item: Rs. 6000.0
+Total Amount (excluding free): Rs. 120000.0

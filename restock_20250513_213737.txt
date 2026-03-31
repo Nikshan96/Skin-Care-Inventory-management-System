@@ -1,0 +1,7 @@
+Vendor: VendorSS
+Date: 2025-05-13 21:37:37
+Product: Sunscreen
+Brand: Aqualogica
+Quantity Restocked: 170
+Rate: Rs. 800.0
+Total: Rs. 136000.0
