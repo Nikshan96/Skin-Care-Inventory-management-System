@@ -1,0 +1,11 @@
+Vitamin C Serum,Garnier,3200,2000.0,France
+Skin Cleanser,Octaphil,100,280.0,Switzerland
+Sunscreen,Aqualogica,357,800.0,India
+Toner,Derma,300,1800.0,India
+Vitamin C Serum,Garnier,20,2000.0,Nepal
+HydraGlow Serum,weCare,500,1250.0,India
+Overnight Repair Cream,weCare,287,900.0,India
+Clarifying Toner,weCare,450,600.0,India
+Soothing Sunshield SPF 50+,weCare,600,750.0,India
+Detox Clay Mask,weCare,200,450.0,India
+Face Wash,Himalayan,320,650.0,Nepal

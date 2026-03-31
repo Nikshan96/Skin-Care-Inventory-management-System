@@ -1,0 +1,18 @@
+===============================
+          SALE INVOICE         
+===============================
+Customer Name: Ujwal
+Date: 2025-05-13 19:01:07
+-------------------------------
+Product Name: Overnight Repair Cream
+Brand: weCare
+Quantity Sold: 10 (Paid)
+Free Quantity: 3
+Rate per Item: Rs. 1800.00
+-------------------------------
+Subtotal (excluding free items): Rs. 18000.00
+VAT (18%): Rs. 3240.00
+Grand Total: Rs. 21240.00
+===============================
+       Thank You for Shopping! 
+===============================

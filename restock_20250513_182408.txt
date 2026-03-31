@@ -1,0 +1,7 @@
+Vendor: VendorT
+Date: 2025-05-13 18:24:08
+Product: Toner
+Brand: Derma
+Quantity Restocked: 50
+Rate: Rs. 1800.0
+Total: Rs. 90000.0
